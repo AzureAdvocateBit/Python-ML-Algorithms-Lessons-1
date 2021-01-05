@@ -4,19 +4,19 @@
 
 # Python 机器学习算法实践系列活动
 
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/shinyzhu/Python-ML-Algorithms-Lessons)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png?WT.mc_id=opensource-0000-xinglzhu)](https://notebooks.azure.com/import/gh/shinyzhu/Python-ML-Algorithms-Lessons?WT.mc_id=opensource-0000-xinglzhu)
 
 👆点击上方按钮，部署该仓库到 [Azure Notebooks](https://cda.ms/1gf) 环境运行Jupyter脚本，全线上编写Python机器学习代码。🆓
 
 > The Azure Notebooks preview is ending and the site is retiring on September 29th, 2020. 
 >
-> 参考迁移指南：<https://notebooks.azure.com/Content/alternatives.html>
+> 参考迁移指南：<https://notebooks.azure.com/Content/alternatives.html?WT.mc_id=opensource-0000-xinglzhu>
 
 该系列活动由**Python社区大咖**+**微软Reactor**+**微软DevRel**联合推出。
 
 ## 活动简介
 
-### [什么是机器学习](https://azure.microsoft.com/overview/what-is-machine-learning-platform/?WT.mc_id=mlalg_python-vevent-xinglzhu)？它是如何工作的？
+### [什么是机器学习](https://azure.microsoft.com/overview/what-is-machine-learning-platform/?WT.mc_id=opensource-0000-xinglzhu)？它是如何工作的？
 
 机器学习 (ML) 是在不提供直接指令的情况下，使用数据的数学模型来帮助计算机学习的过程。它被视为人工智能 (AI) 的子集。机器学习使用算法来识别数据中的模式，然后使用这些模式创建一个可以进行预测的数据模型。随着数据和经验的增加，机器学习的结果会更加准确，这与人类通过不断练习来提高能力的过程非常相似。
 
@@ -59,7 +59,7 @@
 
 ![MS DevRel](DevRel-logo.png)
 
-微软开发者关系团队帮助地球上每一个开发人员成就更多，无论你是学生还是在企业或初创公司。我们的全球团队热衷于让所有开发者为这世界惊叹，我们很高兴为开源平台，工具和流程提供支持并作出贡献。作为开发人员的倡导者，我们通过宣传、演讲、写作、视频和社区活动与开发人员建立联系。欢迎访问我们网站：<https://developeradvocates.microsoft.com/>
+微软开发者关系团队帮助地球上每一个开发人员成就更多，无论你是学生还是在企业或初创公司。我们的全球团队热衷于让所有开发者为这世界惊叹，我们很高兴为开源平台，工具和流程提供支持并作出贡献。作为开发人员的倡导者，我们通过宣传、演讲、写作、视频和社区活动与开发人员建立联系。欢迎访问我们网站：<https://developeradvocates.microsoft.com/?WT.mc_id=opensource-0000-xinglzhu>
 
 ![ReactorShanghai](ReactorShanghai-logo.jpg)
 
@@ -69,6 +69,6 @@
 
 Microsoft is dedicated to empowering every person and every organization on the planet to achieve more. **This includes Microsoft Reactor sites where we seek to provide a respectful, friendly, professional experience for everyone, regardless of gender, sexual orientation, physical appearance, disability, age, race or religion.** We do not tolerate any behavior that is harassing or degrading to any individual, in any form. Individuals are responsible for knowing and abiding by these standards. We encourage everyone to assist in creating a welcoming and safe environment.
 
-Please report any concerns, suspicious or disruptive activity or behavior via the [Microsoft Runs on Trust](https://www.microsoft.com/en-us/legal/compliance/integrity) website.
+Please report any concerns, suspicious or disruptive activity or behavior via the [Microsoft Runs on Trust](https://www.microsoft.com/legal/compliance/integrity?WT.mc_id=opensource-0000-xinglzhu) website.
 
 Microsoft reserves the right to refuse admittance to or remove any person from a Reactor site at any time at its discretion.
